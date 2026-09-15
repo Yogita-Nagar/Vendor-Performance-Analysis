@@ -58,7 +58,7 @@ Vendor-Performance-Analysis/
 └── POWER BI DASHBOARD FOR DATA ANALYST.pbix
 
 
-Analysis Performed
+##Analysis Performed
 Data Cleaning & Preparation
 Loaded and inspected source datasets
 Checked data types and data quality
