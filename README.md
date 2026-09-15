@@ -93,7 +93,7 @@ Statistical techniques were applied to identify patterns, relationships, and sig
 An interactive Power BI dashboard was developed to provide a consolidated view of vendor performance and business KPIs.
 
 ### Dashboard Preview
-![Vendor Performance Dashboard](./vendor-performance-dashboard.png)
+![Vendor Performance Dashboard](https://raw.githubusercontent.com/Yogita-Nagar/Vendor-Performance-Analysis/main/vendor-performance-dashboard.png)
 
 Dashboard Highlights
 Total Sales
